@@ -32,6 +32,7 @@ onMounted(() => {
   width: 100%;
   height: 300px;
   background: rgb(240, 240, 240);
+  box-shadow: -3px -9px 9px 8px #00000054;
   
   .swiper-wrapper{
     width: 100%;

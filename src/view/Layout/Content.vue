@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://online-shop-gamma.vercel.app/#/Login">刘宏萱KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://personal-brown.vercel.app/#/">陈嘉辉KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -50,7 +50,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://fangwangyiyun.vercel.app/home">黄汉煜KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -68,7 +68,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="http://monado-react-ts-template.vercel.app/">温浩文KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -86,7 +86,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://lirusen.vercel.app/#/">李儒森KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -104,7 +104,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://todolist-homework.vercel.app/">梁志明KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -122,7 +122,7 @@
         </div>
       </div>
       <div class="author">
-        <span><a href="https://www.baidu.com">俊佳设计KarvOne</a></span>
+        <span><a href="https://lijiahui.vercel.app/">李嘉慧KarvOne</a></span>
         <span>2小时前</span>
       </div>
     </div>
@@ -175,8 +175,8 @@
     margin: 0 5px 5px 0;
     width:23%;
     height: 350px;
-    box-shadow: 0 0 4px -1px;
-    border-radius: 3px;
+    box-shadow: -2px 2px 10px -1px #00000030;
+    border-radius: 4px;
     overflow: hidden;
     .content-img{
       width: 100%;
