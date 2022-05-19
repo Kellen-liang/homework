@@ -46,7 +46,7 @@ const data  =[
   {
     img: require("./imgs/content/5.webp"),
     author:"李儒森KarvOne",
-    src:"https://lirusen.vercel.app/#/",
+    src:"http://10.64.203.59:3000/#/",
   },
   {
     img: require("./imgs/content/6.webp"),
